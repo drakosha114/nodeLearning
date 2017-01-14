@@ -1,0 +1,19 @@
+{
+  "name": "node_learning",
+  "version": "1.0.0",
+  "description": "Изучение node.js. Веб разработка с приминением NODE и EXPRESS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "learning"
+  ],
+  "author": "Andrey Skrypay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
